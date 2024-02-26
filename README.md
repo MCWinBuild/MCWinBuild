@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello , I'm MCWinBuild
 
-- 🎓 I'm a junior high school student.
+- 🎓 I'm a student.
 - 🐯 You can call me WinBuild/Actt/Awer.(🌴)
 - 🌵 I C A N D O I T! :-D
 - 📬 My mail is MCWinBuild@sohu.com
